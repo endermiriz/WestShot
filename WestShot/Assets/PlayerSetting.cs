@@ -30,8 +30,17 @@ public class PlayerSetting : MonoBehaviour
 
     public void PlayerTakeHeal(int heal)
     {
-        PlayerHealth += heal;
-        healthbar.SetHealth(PlayerHealth);
+        if(PlayerHealth+heal <= 100)
+        {
+            PlayerHealth += heal;
+            healthbar.SetHealth(PlayerHealth);
+        }
+        else
+        {
+            PlayerHealth = 100;
+            healthbar.SetHealth(PlayerHealth);
+        }
+
     }
 
     public void DestroyPlayer()
@@ -46,7 +55,7 @@ public class PlayerSetting : MonoBehaviour
             if(PlayerHealth < 100)
             {
                 Destroy(collider.gameObject);
-                PlayerTakeHeal(100);
+                PlayerTakeHeal(50);
             }
             
         }   
