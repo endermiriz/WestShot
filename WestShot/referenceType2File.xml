@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>63420886de9374941a092ac073feb6a1</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-13T19:37:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a56570e86de6f444b851e03fc1a5b13</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T19:37:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>63329ebad3782564ba6aa0c042ce2682</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T19:37:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d8b7e53a873f33840bbb6f07b50ebe1b</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-13T19:37:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0901616d5d523474ca70cc75235d89f6</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-13T19:37:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b8cee7ef4b64a5e4b93ad5b6b6217e29</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-13T19:37:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>771753ab778a3384080a77d1999da3ae</guid>
+    <fileName>Assets/Billboard.cs</fileName>
+    <timeStamp>2023-04-21T17:56:32.8426821+03:00</timeStamp>
+    <typeFullName>
+      <string>Billboard</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd5894c25e4ba0a4ea4f81658e66ab47</guid>
+    <fileName>Assets/Bullet.cs</fileName>
+    <timeStamp>2023-04-19T02:19:49.9001582+03:00</timeStamp>
+    <typeFullName>
+      <string>Bullet</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a0aca5da7c300b40bcc3b262c6cd7f4</guid>
+    <fileName>Assets/EnemyAiTutorial.cs</fileName>
+    <timeStamp>2023-04-21T16:20:37.2080276+03:00</timeStamp>
+    <typeFullName>
+      <string>EnemyAiTutorial</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63366719e015c0b4da636906c390a1fb</guid>
+    <fileName>Assets/Gun.cs</fileName>
+    <timeStamp>2023-04-19T16:56:29.9414918+03:00</timeStamp>
+    <typeFullName>
+      <string>Gun</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>459514b0fb6ff674c848bb0c5962a35c</guid>
+    <fileName>Assets/Healthbar.cs</fileName>
+    <timeStamp>2023-04-21T17:41:26.2581713+03:00</timeStamp>
+    <typeFullName>
+      <string>Healthbar</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b22b80591748fb843bea2cd1bc9e25fa</guid>
+    <fileName>Assets/PlayerSetting.cs</fileName>
+    <timeStamp>2023-04-21T17:33:13.1449819+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerSetting</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>103b94c6aec131742b228ee3db348d08</guid>
+    <fileName>Assets/RandomSpawn.cs</fileName>
+    <timeStamp>2023-04-19T17:47:27.414406+03:00</timeStamp>
+    <typeFullName>
+      <string>RandomSpawn</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4bb6081b4a37bbe4dbe02dfbf915c25f</guid>
+    <fileName>Assets/LowPolyFencePack/Scripts/DoorController.cs</fileName>
+    <timeStamp>2018-07-03T00:24:01+03:00</timeStamp>
+    <typeFullName>
+      <string>BrokenVector.LowPolyFencePack.DoorController</string>
+      <string>BrokenVector.LowPolyFencePack.DoorController+DoorState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6a88a59113dd8940a03ac435b0f5a5e</guid>
+    <fileName>Assets/LowPolyFencePack/Scripts/DoorToggle.cs</fileName>
+    <timeStamp>2018-07-03T00:24:19+03:00</timeStamp>
+    <typeFullName>
+      <string>BrokenVector.LowPolyFencePack.DoorToggle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e087ecce43ebbff45a1b360637807d93</guid>
+    <fileName>Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs</fileName>
+    <timeStamp>2023-04-18T18:21:11.8152882+03:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.StarterAssetsInputs</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a28a7b1a391e9534c94209656878d41d</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo.cs</fileName>
+    <timeStamp>2022-03-16T19:15:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78964aea51a31da43b179a267e314232</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo_Bullet.cs</fileName>
+    <timeStamp>2022-03-16T19:15:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>abdc1f6b7923805409f3cfcc8e6a5c42</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo_Cannon.cs</fileName>
+    <timeStamp>2022-03-16T19:15:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>58c51483f1bf8fc44bff6629faec5b02</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo_DamageButton.cs</fileName>
+    <timeStamp>2022-03-16T19:15:40+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>64e4fe139566fd049a242cf3e8e55087</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo_DefenseGame.cs</fileName>
+    <timeStamp>2022-03-16T19:15:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd3329872174ecc4c8c5bf7e3388ca27</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo_HealButton.cs</fileName>
+    <timeStamp>2022-03-16T19:15:47+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33f35e43c4a6fa648ae58e57cebc1965</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo_Unit.cs</fileName>
+    <timeStamp>2022-03-16T19:15:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>012d7c6c8bcc8c84da776e9e2325e344</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo_UnitCSharp.cs</fileName>
+    <timeStamp>2022-03-16T19:15:35+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>48f821d44c01ffb469d72913e575879e</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Demo/Demo_Zombie.cs</fileName>
+    <timeStamp>2022-03-16T19:15:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d7912dc3ce1cccc4a9e9bf3bdc8f0b0e</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Scripts/HealthBarUI.cs</fileName>
+    <timeStamp>2022-03-16T19:15:45+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>45750d1b1dc3dc842a66056e03c045d1</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Scripts/HealthSystem.cs</fileName>
+    <timeStamp>2022-03-16T19:15:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3eb9aa7183709da429076edc5294507b</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Scripts/HealthSystemComponent.cs</fileName>
+    <timeStamp>2022-03-16T19:15:38+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba7115b08caeb734b979f4c449f5a118</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Scripts/IGetHealthSystem.cs</fileName>
+    <timeStamp>2022-03-16T19:15:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cbc71e1898b0bd8439037768042f7b89</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/Scripts/LookAtCamera.cs</fileName>
+    <timeStamp>2022-03-16T19:15:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1af678181f0f15a4b96db73dc5dbcda4</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/_Readme/Readme_HealthSystem.cs</fileName>
+    <timeStamp>2022-03-16T19:15:36+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ab22ec70f5559c640867ba6aa0707925</guid>
+    <fileName>Assets/eretichable Technologies/Revolver Gun (Low Poly)/Scripts/Gun_rotation.cs</fileName>
+    <timeStamp>2022-08-17T13:25:24+03:00</timeStamp>
+    <typeFullName>
+      <string>Gun_rotation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d56b3c7055d81cb44803b5d7db4b65e0</guid>
+    <fileName>Assets/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs</fileName>
+    <timeStamp>2019-03-20T21:11:46+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a20330d93336f2245901dbd9a34b88f8</guid>
+    <fileName>Assets/JMO Assets/WarFX/Editor/CFX_SpawnSystemEditor.cs</fileName>
+    <timeStamp>2019-03-20T21:10:50+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6fd2e8874f60266498a388d7229a1bac</guid>
+    <fileName>Assets/JMO Assets/WarFX/Scripts/CFX_AutoDestructShuriken.cs</fileName>
+    <timeStamp>2019-03-20T21:09:59+03:00</timeStamp>
+    <typeFullName>
+      <string>CFX_AutoDestructShuriken</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2255468ea97f384a9ebbb13e497e050</guid>
+    <fileName>Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs</fileName>
+    <timeStamp>2019-03-20T21:11:26+03:00</timeStamp>
+    <typeFullName>
+      <string>CFX_LightIntensityFade</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>395f3a2ded34a634fbd77ee83f9939a7</guid>
+    <fileName>Assets/JMO Assets/WarFX/Scripts/WFX_BulletHoleDecal.cs</fileName>
+    <timeStamp>2019-03-20T21:09:09+03:00</timeStamp>
+    <typeFullName>
+      <string>WFX_BulletHoleDecal</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96d332ab3dbfaaf40bdd9745ff0b19f0</guid>
+    <fileName>Assets/JMO Assets/WarFX/Scripts/WFX_LightFlicker.cs</fileName>
+    <timeStamp>2019-03-20T21:10:36+03:00</timeStamp>
+    <typeFullName>
+      <string>WFX_LightFlicker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec1683be71e02f548b9023d92d51ac31</guid>
+    <fileName>Assets/JMO Assets/WarFX/Spawn System/CFX_SpawnSystem.cs</fileName>
+    <timeStamp>2019-03-20T21:12:08+03:00</timeStamp>
+    <typeFullName>
+      <string>CFX_SpawnSystem</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45e898f1334e740678c21331ac30d746</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceAgentTests.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>264ca61ae1b6e4c16bcfc55f84300402</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceLinkTests.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f9fe5cff05af44c0fb71a8dcc44efc41</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceModifierTests.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f5d873c779b014234ba92f3cb7476da6</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceModifierVolumeTests.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>925111c157b314873b97f89e0f03d570</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceTests.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>be76e5f14cfee674cb30b491fb72b09b</guid>
+    <fileName>Assets/POLY STYLE - Vegetation Pack 2/Vegetation Pack 2_URP/Scripts/SimpleCameraController.cs</fileName>
+    <timeStamp>2023-01-25T10:34:13+03:00</timeStamp>
+    <typeFullName>
+      <string>UnityTemplateProjects.SimpleCameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>909d917d73a63f940ac158d02e936645</guid>
+    <fileName>Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs</fileName>
+    <timeStamp>2023-02-09T18:35:54+03:00</timeStamp>
+    <typeFullName>
+      <string>BasicRigidBodyPush</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26e54e5a728a9234ab24fcf1460ed8a2</guid>
+    <fileName>Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs</fileName>
+    <timeStamp>2023-02-09T18:34:07+03:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.ThirdPersonController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2023-02-09T18:38:00+03:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fe7d15d1324c5d347b1d5d46fe4f381e</guid>
+    <fileName>Assets/Unity-3d-TopDownMovement-master/Assets/Scripts/InputHandler.cs</fileName>
+    <timeStamp>2020-04-13T18:08:26+03:00</timeStamp>
+    <typeFullName>
+      <string>InputHandler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a116a6b2e6ba154391d1a695ea81d73</guid>
+    <fileName>Assets/Unity-3d-TopDownMovement-master/Assets/Scripts/TopDownCharacterMover.cs</fileName>
+    <timeStamp>2023-04-18T02:15:26.1851776+03:00</timeStamp>
+    <typeFullName>
+      <string>TopDownCharacterMover</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d147b2be2de77e448f4f0b51754c635</guid>
+    <fileName>Assets/CodeMonkey/HealthSystem/_Readme/Editor/ReadmeEditor_HealthSystem.cs</fileName>
+    <timeStamp>2022-03-16T19:15:43+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b135c4a9d4b7a984e89f8c975b631b7f</guid>
+    <fileName>Assets/EZ-Camera-Shake-Unity-master/Assets/EZ Camera Shake/Demo/ShakeDemo.cs</fileName>
+    <timeStamp>2020-05-23T12:37:14+03:00</timeStamp>
+    <typeFullName>
+      <string>ShakeDemo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>15591c547998f4e47a2e8ce9ac3d3a73</guid>
+    <fileName>Assets/EZ-Camera-Shake-Unity-master/Assets/EZ Camera Shake/Scripts/CameraShakeInstance.cs</fileName>
+    <timeStamp>2020-05-23T12:37:14+03:00</timeStamp>
+    <typeFullName>
+      <string>EZCameraShake.CameraShakeState</string>
+      <string>EZCameraShake.CameraShakeInstance</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>10b257f8230acee41bf69ee03cd26f50</guid>
+    <fileName>Assets/EZ-Camera-Shake-Unity-master/Assets/EZ Camera Shake/Scripts/CameraShakePresets.cs</fileName>
+    <timeStamp>2020-05-23T12:37:14+03:00</timeStamp>
+    <typeFullName>
+      <string>EZCameraShake.CameraShakePresets</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2ab8353b5ebd32545867da143199a814</guid>
+    <fileName>Assets/EZ-Camera-Shake-Unity-master/Assets/EZ Camera Shake/Scripts/CameraShaker.cs</fileName>
+    <timeStamp>2020-05-23T12:37:14+03:00</timeStamp>
+    <typeFullName>
+      <string>EZCameraShake.CameraShaker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9c4e89389fa607479b0744ec6611490</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/CFX_AutoStopLoopedEffect.cs</fileName>
+    <timeStamp>2019-03-20T21:11:51+03:00</timeStamp>
+    <typeFullName>
+      <string>CFX_AutoStopLoopedEffect</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27666076fd6e86245aa62dfd9e943d6c</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_RandomDir.cs</fileName>
+    <timeStamp>2019-03-20T21:08:47+03:00</timeStamp>
+    <typeFullName>
+      <string>CFX_Demo_RandomDir</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f71e90e62dfae594490eb4d9b611f930</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_RotateCamera.cs</fileName>
+    <timeStamp>2019-03-20T21:12:15+03:00</timeStamp>
+    <typeFullName>
+      <string>CFX_Demo_RotateCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e42ac40a6fba2e4d94a0070ef45cea1</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/CFX_Demo_Translate.cs</fileName>
+    <timeStamp>2019-03-20T21:08:41+03:00</timeStamp>
+    <typeFullName>
+      <string>CFX_Demo_Translate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f29cbe1088b10084fb12c7ba8a19f151</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo.cs</fileName>
+    <timeStamp>2019-03-20T21:12:11+03:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cce2a86394e858c419a5d614b1036533</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_DeleteAfterDelay.cs</fileName>
+    <timeStamp>2019-03-20T21:11:36+03:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo_DeleteAfterDelay</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b322923f82d20c4ba75b8657b00331b</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_New.cs</fileName>
+    <timeStamp>2019-03-20T21:09:54+03:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo_New</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>936f98d748ce69c4caf9bc76c7e38a8b</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_RandomDir.cs</fileName>
+    <timeStamp>2019-03-20T21:10:34+03:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo_RandomDir</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e1b171d14b3d5549a9080c5bb8eb2b1</guid>
+    <fileName>Assets/JMO Assets/WarFX/Demo/Assets/WFX_Demo_Wall.cs</fileName>
+    <timeStamp>2019-03-20T21:10:47+03:00</timeStamp>
+    <typeFullName>
+      <string>WFX_Demo_Wall</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cea3a39b71a6f48999d2f884b3b41239</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Editor/NavMeshPrefabInstanceEditor.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>03bc8063c9e95401f9a8a38bc716750d</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/AgentLinkMover.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9472e73a59274b9b8da79d72004bd8b</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/ClickToMove.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c786c4b29e72040b881bf13065fb9788</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/DestroyOnTrigger.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c56d911659e3c4b499e11b47a73a4dbb</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/DungeonManager.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c56046daca8eb46f3af030c05f030e37</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/EnableIffSleeping.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b6c30eb361e754b75ac25325c5d024bd</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/FreeCam.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>115dfe7b0938447cbbf9507076f54049</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/LocalNavMeshBuilder.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d5a3e609186342b2a976cd32fd7d0f0</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/MeshTool.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4abfa16db9d114ec0ae6e10e4a566cb4</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/NavMeshPrefabInstance.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6e038bf700cfa444fb16c6ef963be9f9</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/NavMeshSourceTag.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c59ac8154f1b24ea7a85cab0f39a4489</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/Oscillator.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0805752a20e62489680c7c8ba929bccc</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/RandomInstancing.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd76b8ee2dbcf4be6998e917c65cd6ed</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/RandomWalk.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c751607f01df8445c86b012985b8b152</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Examples/Scripts/SpawnPrefabOnKeyDown.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>178d8366aa1616849b91b66285c51454</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshAssetManager.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>77fba670b979046f18d52d751e0d4659</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ece1e865d1ad84587872fe8580ab5a20</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6fa04b4743e3947eba4d7b9e5832ea69</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0f3bef2a67ae4e139538afec3e59b03</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c32167dbf3314852b6006a288eb449b</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6eeb5dc026fdf4b488bc7ae0138ab719</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshLink.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e3fdca004f2d45fe8abbed571a8abd5</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshModifier.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35e95dc5ff2b64380880dd7ac5922847</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshModifierVolume.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a5ac11cc976e418e8d13136b07e1f52</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd4d066d0a75d8446bc2852c3bc1d4bb</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/Editor/NavMeshModifierVolumeInPrefabTests.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8e570ad5b9d660a4bbeebf9f8b872eb4</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/Editor/NavMeshSurfaceInPrefabTests.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84d904f3fbe3c1b4c8daab917453682f</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/Editor/NavMeshSurfaceInPrefabVariantTests.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4de45126199b4c84dbc8b9620cf3263d</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/Editor/PrefabSavingUtil.cs</fileName>
+    <timeStamp>2023-04-18T21:57:23.4645388+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9cd905de8fe98d94a82de074adbd499d</guid>
+    <fileName>Assets/NavMeshComponents-master/Assets/Tests/Editor/PrefabStageAutoSavingUtil.cs</fileName>
+    <timeStamp>2021-07-27T05:47:04+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4a300d010f57451488aa99000126fbd5</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs</fileName>
+    <timeStamp>2023-04-18T18:20:19.22573+03:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.UICanvasControllerInput</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>901182334643ba1438a25accc6bd0c79</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs</fileName>
+    <timeStamp>2023-02-09T18:35:54+03:00</timeStamp>
+    <typeFullName>
+      <string>MobileDisableAutoSwitchControls</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>448cd6d8e2f2cb04096e777d99974bc4</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs</fileName>
+    <timeStamp>2023-02-09T18:34:43+03:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualButton</string>
+      <string>UIVirtualButton+BoolEvent</string>
+      <string>UIVirtualButton+Event</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2cb8c4d669392748bb924209de33b85</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs</fileName>
+    <timeStamp>2023-02-09T18:37:55+03:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualJoystick</string>
+      <string>UIVirtualJoystick+Event</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65870f34fef70aa44b0f562cfc810220</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs</fileName>
+    <timeStamp>2023-02-09T18:35:13+03:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualTouchZone</string>
+      <string>UIVirtualTouchZone+Event</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/StarterAssets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2023-02-09T18:34:48+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4558416165edbfd4d8c52ab1580c79e8</guid>
+    <fileName>Assets/Tutorial-IsometricAiming-main/Assets/Scripts/ExtraStuff/CleanUpVFX.cs</fileName>
+    <timeStamp>2021-05-01T07:13:24+03:00</timeStamp>
+    <typeFullName>
+      <string>BarthaSzabolcs.TutorialOnly.CleanUpVFX</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>61d162019fad21b44b3335ab867b699c</guid>
+    <fileName>Assets/Tutorial-IsometricAiming-main/Assets/Scripts/ExtraStuff/Projectile.cs</fileName>
+    <timeStamp>2023-04-21T16:48:00.3236522+03:00</timeStamp>
+    <typeFullName>
+      <string>BarthaSzabolcs.TutorialOnly.Projectile</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>56201ede4f9c6494ca5fe2bef4b10301</guid>
+    <fileName>Assets/Tutorial-IsometricAiming-main/Assets/Scripts/Simple - CopyThis/IsometricAiming.cs</fileName>
+    <timeStamp>2023-04-19T16:10:10.8861177+03:00</timeStamp>
+    <typeFullName>
+      <string>BarthaSzabolcs.IsometricAiming.IsometricAiming</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad2c2be61736d3c4695e439785697fee</guid>
+    <fileName>Assets/Tutorial-IsometricAiming-main/Assets/Scripts/WithGizmos/IsometricAimingWithGizmos.cs</fileName>
+    <timeStamp>2021-05-01T07:13:24+03:00</timeStamp>
+    <typeFullName>
+      <string>BarthaSzabolcs.IsometricAiming.IsometricAimingWithGizmos</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8b4e798129c8dfe4ca1a59272eacbd94</guid>
+    <fileName>Assets/EZ-Camera-Shake-Unity-master/Assets/EZ Camera Shake/Demo/Sample Scripts/ShakeByDistance.cs</fileName>
+    <timeStamp>2020-05-23T12:37:14+03:00</timeStamp>
+    <typeFullName>
+      <string>ShakeByDistance</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e64941b1002d73d45a26f04fa597c5c7</guid>
+    <fileName>Assets/EZ-Camera-Shake-Unity-master/Assets/EZ Camera Shake/Demo/Sample Scripts/ShakeOnKeyPress.cs</fileName>
+    <timeStamp>2020-05-23T12:37:14+03:00</timeStamp>
+    <typeFullName>
+      <string>ShakeOnKeyPress</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>170288b78db0eec489cf657b74c77a17</guid>
+    <fileName>Assets/EZ-Camera-Shake-Unity-master/Assets/EZ Camera Shake/Demo/Sample Scripts/ShakeOnTrigger.cs</fileName>
+    <timeStamp>2020-05-23T12:37:14+03:00</timeStamp>
+    <typeFullName>
+      <string>ShakeOnTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5eebeb0be12630947983c46c4641a0b5</guid>
+    <fileName>Assets/EZ-Camera-Shake-Unity-master/Assets/EZ Camera Shake/Scripts/Utilities/CameraUtilities.cs</fileName>
+    <timeStamp>2020-05-23T12:37:14+03:00</timeStamp>
+    <typeFullName>
+      <string>EZCameraShake.CameraUtilities</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>32460d7cf069bbd4e958696a26194d66</guid>
+    <fileName>Assets/Tutorial-IsometricAiming-main/Assets/Scripts/ExtraStuff/VectorDemo/PointInSpace.cs</fileName>
+    <timeStamp>2021-05-01T07:13:24+03:00</timeStamp>
+    <typeFullName>
+      <string>BarthaSzabolcs.TutorialOnly.PointInSpace</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73c5413a29d9cfc4eac464e42adc04f4</guid>
+    <fileName>Assets/Tutorial-IsometricAiming-main/Assets/Scripts/ExtraStuff/VectorDemo/VectorExample.cs</fileName>
+    <timeStamp>2021-05-01T07:13:24+03:00</timeStamp>
+    <typeFullName>
+      <string>BarthaSzabolcs.TutorialOnly.VectorExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
