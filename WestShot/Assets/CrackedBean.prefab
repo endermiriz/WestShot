@@ -54,7 +54,7 @@ PrefabInstance:
     - target: {fileID: -5927828837316974692, guid: a1431bccf3e2b714eb2aeef0c8cb8a20, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 754a5ecb8a0b32a4fa6ba94adaa1bb6a, type: 2}
+      objectReference: {fileID: 2100000, guid: e0d6c60c5133a744dba8c9f23bea6ee4, type: 2}
     - target: {fileID: 919132149155446097, guid: a1431bccf3e2b714eb2aeef0c8cb8a20, type: 3}
       propertyPath: m_Name
       value: CrackedBean
@@ -62,11 +62,11 @@ PrefabInstance:
     - target: {fileID: 8384809325113469467, guid: a1431bccf3e2b714eb2aeef0c8cb8a20, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 754a5ecb8a0b32a4fa6ba94adaa1bb6a, type: 2}
+      objectReference: {fileID: 2100000, guid: e0d6c60c5133a744dba8c9f23bea6ee4, type: 2}
     - target: {fileID: 8658555813102759839, guid: a1431bccf3e2b714eb2aeef0c8cb8a20, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 754a5ecb8a0b32a4fa6ba94adaa1bb6a, type: 2}
+      objectReference: {fileID: 2100000, guid: e0d6c60c5133a744dba8c9f23bea6ee4, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a1431bccf3e2b714eb2aeef0c8cb8a20, type: 3}
 --- !u!1 &1991830810404134879 stripped

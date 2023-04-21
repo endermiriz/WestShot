@@ -28,9 +28,27 @@ public class PlayerSetting : MonoBehaviour
         if (PlayerHealth <= 0) Invoke(nameof(DestroyPlayer), 0f);
     }
 
+    public void PlayerTakeHeal(int heal)
+    {
+        PlayerHealth += heal;
+        healthbar.SetHealth(PlayerHealth);
+    }
+
     public void DestroyPlayer()
     {
         Destroy(gameObject);
     }
 
+    private void OnTriggerEnter(Collider collider)
+    {
+        if (collider.gameObject.tag == "Healing")
+        {   
+            if(PlayerHealth < 100)
+            {
+                Destroy(collider.gameObject);
+                PlayerTakeHeal(100);
+            }
+            
+        }   
+    }
 }
