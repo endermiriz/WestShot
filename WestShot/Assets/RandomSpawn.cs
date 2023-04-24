@@ -11,29 +11,33 @@ public class RandomSpawn : MonoBehaviour
     private Vector3 spawnPosition;
     public Transform userPlayer;
 
-
     // Use this for initialization
     void Start()
     {
         userPlayer = GameObject.Find("PlayerObj").transform;
         // Call the Spawn function after a delay of the spawnTime and then continue to call after the same amount of time.
         InvokeRepeating("Spawn", spawnTime, spawnTime);
-        
-        
+
+
 
     }
 
     void Spawn()
     {
-
-        spawnPosition.x = Random.Range(-17, 17);
+        spawnPosition.x = Random.Range(-50, 20);
         spawnPosition.y = 0.5f;
-        spawnPosition.z = Random.Range(-17, 17);
+        spawnPosition.z = Random.Range(-35, 40);
+        NavMeshHit hit;
+        NavMesh.SamplePosition(spawnPosition, out hit, Mathf.Infinity, NavMesh.AllAreas);
+        Vector3 myRandomPositionInsideNavMesh = hit.position;
+        
+
         if (userPlayer != null)
         {
-            Instantiate(objects[UnityEngine.Random.Range(0, objects.Length - 1)], spawnPosition, Quaternion.identity);
+            Instantiate(objects[UnityEngine.Random.Range(0, objects.Length - 1)], myRandomPositionInsideNavMesh, Quaternion.identity);
         }
-        
+
     }
+
 
 }
