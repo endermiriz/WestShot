@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class RandomHealSpawn : MonoBehaviour
 {
@@ -34,9 +35,13 @@ public class RandomHealSpawn : MonoBehaviour
             spawnPosition.y = 0.5f;
             spawnPosition.z = Random.Range(userPlayer.position.z - 17, userPlayer.position.x + 17);
 
+            NavMeshHit hit;
+            NavMesh.SamplePosition(spawnPosition, out hit, Mathf.Infinity, NavMesh.AllAreas);
+            Vector3 myRandomPositionInsideNavMesh = hit.position;
+
             if (playerSetting.PlayerHealth < 80 && GameObject.FindGameObjectsWithTag("Healing").Length < 3)
             {
-                Instantiate(objects[UnityEngine.Random.Range(0, objects.Length - 1)], spawnPosition, Quaternion.identity);
+                Instantiate(objects[UnityEngine.Random.Range(0, objects.Length - 1)], myRandomPositionInsideNavMesh, Quaternion.identity);
             }
         }
 
