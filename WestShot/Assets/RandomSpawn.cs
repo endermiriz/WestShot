@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class RandomSpawn : MonoBehaviour
 {
@@ -24,13 +25,15 @@ public class RandomSpawn : MonoBehaviour
 
     void Spawn()
     {
+
         spawnPosition.x = Random.Range(-17, 17);
         spawnPosition.y = 0.5f;
         spawnPosition.z = Random.Range(-17, 17);
-        if(userPlayer != null)
+        if (userPlayer != null)
         {
             Instantiate(objects[UnityEngine.Random.Range(0, objects.Length - 1)], spawnPosition, Quaternion.identity);
         }
         
     }
+
 }
