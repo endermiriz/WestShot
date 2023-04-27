@@ -51,8 +51,13 @@ public class EnemyAiTutorial : MonoBehaviour
 
     private void Patroling()
     {
+        if(agent.velocity.x == 0 && agent.velocity.z == 0)
+        {
+            walkPointSet = false;
+        }
         if (!walkPointSet) SearchWalkPoint();
 
+ 
         if (walkPointSet)
             agent.SetDestination(walkPoint);
 
