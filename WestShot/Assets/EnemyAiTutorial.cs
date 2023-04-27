@@ -27,7 +27,6 @@ public class EnemyAiTutorial : MonoBehaviour
     public GameObject[] Blood = new GameObject[1];
     public Transform EnemyBulletSpawnPoint;
     public GameObject DestroyedVesion;
-
     //States
     public float sightRange, attackRange;
     public bool playerInSightRange, playerInAttackRange;
@@ -122,6 +121,7 @@ public class EnemyAiTutorial : MonoBehaviour
         Destroy(gameObject);
         GameObject BrainEffect = Instantiate(BloodBrainPartsEffect, transform.position,BloodBrainPartsEffect.transform.rotation);
         GameObject BloodPref = Instantiate(Blood[Random.Range(0, Blood.Length)], new Vector3(transform.position.x, 0, transform.position.z), Quaternion.identity);
+
         Destroy(BloodPref, 3f);
         Destroy(BrainEffect, 1f);
         Destroy(CrackedEnemy, 1.5f);
