@@ -9,6 +9,7 @@ TagManager:
   - ExpFX
   - PlayerUser
   - Healing
+  - spheremask
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - Enemy
   - PlayerGun
   - Building
-  - 
+  - WallVisible
   - 
   - 
   - 
