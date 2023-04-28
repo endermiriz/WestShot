@@ -5,3 +5,5 @@ Unity3d Top-Down game project
 27.04.2023
 ![Adsız](https://user-images.githubusercontent.com/96499753/234886190-5bbef529-45d9-44b4-8299-1bf87d0f0a38.png)
 
+28.04.2023 - ADD SEE THROUGH
+![seethrough](https://user-images.githubusercontent.com/96499753/235233657-783f84ef-be77-4b67-9334-fa5893929874.png)
