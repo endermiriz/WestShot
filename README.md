@@ -7,3 +7,6 @@ Unity3d Top-Down game project
 
 28.04.2023 - ADD SEE THROUGH
 ![seethrough](https://user-images.githubusercontent.com/96499753/235233657-783f84ef-be77-4b67-9334-fa5893929874.png)
+
+29.04.2023 - ADD MONEY SYSTEM AND UI
+![coinz](https://user-images.githubusercontent.com/96499753/235325405-2dbf65a4-1976-413b-b59b-c6ac588b381b.png)
