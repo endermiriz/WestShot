@@ -7,6 +7,8 @@ public class PlayerSetting : MonoBehaviour
     // Start is called before the first frame update
     [SerializeField] public int PlayerHealth;
     public Healthbar healthbar;
+    public MoneyManager moneyMan;
+    public AudioClip coinSound;
 
     void Start()
     {
@@ -58,6 +60,13 @@ public class PlayerSetting : MonoBehaviour
                 PlayerTakeHeal(50);
             }
             
-        }   
+        }
+        else if(collider.gameObject.tag == "Coin")
+        {
+            Debug.Log("Player taked Coin");
+            moneyMan.SetMoney();
+            AudioSource.PlayClipAtPoint(coinSound, collider.gameObject.transform.position);
+            Destroy(collider.gameObject);
+        }
     }
 }

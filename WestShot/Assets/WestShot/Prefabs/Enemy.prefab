@@ -190,6 +190,7 @@ MonoBehaviour:
   - {fileID: 100000, guid: 43dd1ba2a5dde844eb01240da13ab96b, type: 3}
   EnemyBulletSpawnPoint: {fileID: 2910103126757221952}
   DestroyedVesion: {fileID: 6081147813288161787, guid: b03a8023ddd43314da93b42ccfab91fa, type: 3}
+  CoinObject: {fileID: 7051481226116358255, guid: cc3f2b4fafaeb7345ad3742a39af2598, type: 3}
   sightRange: 20
   attackRange: 12.36
   playerInSightRange: 0
