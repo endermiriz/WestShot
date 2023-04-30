@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using EZCameraShake;
 public class PlayerSetting : MonoBehaviour
 {
     // Start is called before the first frame update
+
     [SerializeField] public int PlayerHealth;
     public Healthbar healthbar;
     public MoneyManager moneyMan;
@@ -26,8 +27,11 @@ public class PlayerSetting : MonoBehaviour
     {
         PlayerHealth -= damage;
         healthbar.SetHealth(PlayerHealth);
-
+        CameraShaker.Instance.ShakeOnce(4f,1f,.1f,1f);
         if (PlayerHealth <= 0) Invoke(nameof(DestroyPlayer), 0f);
+
+
+
     }
 
     public void PlayerTakeHeal(int heal)
