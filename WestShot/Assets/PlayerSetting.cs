@@ -10,6 +10,7 @@ public class PlayerSetting : MonoBehaviour
     public Healthbar healthbar;
     public MoneyManager moneyMan;
     public AudioClip coinSound;
+    public GameObject restartButton;
 
     void Start()
     {
@@ -52,6 +53,7 @@ public class PlayerSetting : MonoBehaviour
     public void DestroyPlayer()
     {
         Destroy(gameObject);
+        restartButton.SetActive(true);
     }
 
     private void OnTriggerEnter(Collider collider)
